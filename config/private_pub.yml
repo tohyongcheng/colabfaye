@@ -6,5 +6,5 @@ test:
   secret_token: "secret"
 production:
   server: "http://colabfaye.herokuapp.com/faye"
-  secret_token: "7442b9651ad1c41a390a50e86861cfb5f3af5cccaaabc450ee17266eb23cee98"
+  secret_token: "70d839276850507d514966f4d0a8c4bbb15e8e6f8cd12021aeefb34220565f28"
   signature_expiration: 3600 # one hour
