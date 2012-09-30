@@ -1,0 +1,10 @@
+development:
+  server: "http://localhost:9292/faye"
+  secret_token: "secret"
+test:
+  server: "http://localhost:9292/faye"
+  secret_token: "secret"
+production:
+  server: "http://colabfaye.herokuapp.com/faye"
+  secret_token: "7442b9651ad1c41a390a50e86861cfb5f3af5cccaaabc450ee17266eb23cee98"
+  signature_expiration: 3600 # one hour
