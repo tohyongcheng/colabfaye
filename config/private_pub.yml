@@ -6,4 +6,4 @@ test:
   secret_token: "secret"
 production:
   server: "http://colabfaye.herokuapp.com/faye"
-  secret_token: "70d839276850507d514966f4d0a8c4bbb15e8e6f8cd12021aeefb34220565f28"
+  secret_token: "secret"
